@@ -42,7 +42,7 @@
 <br />
 <br />
 
-[e-mail]: andrey@fedyukin.com
+[e-mail]: mailo:andrey@fedyukin.com
 [telegram]: https://t.me/andrey_fedyukin/
 [linkedin]: http://linkedin.com/in/andrey-fedyukin-948040234/
 [instagram]: https://www.instagram.com/andrey_fedyukin/
