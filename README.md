@@ -4,11 +4,11 @@
 
 ## I'm a Frontend Web Developer, and Designer
 
-- 💪 I like to write code
-- 🥅 I am constantly learning new things
-- 🎉 I love photography
-- ⚡ I love playing chess
-- 🤹🏽 I like fishing
+- 💪 _I like to write code_
+- 🥅 _I am constantly learning new things_
+- 🎉 _I love photography_
+- ⚡ _I love chess_
+- 🤹🏽 _I like sea fishing_
   <br />
   <br />
 
@@ -42,7 +42,7 @@
 <br />
 <br />
 
-[e-mail]: mailo:andrey@fedyukin.com
+[e-mail]: mailto:andrey@fedyukin.com
 [telegram]: https://t.me/andrey_fedyukin/
 [linkedin]: http://linkedin.com/in/andrey-fedyukin-948040234/
 [instagram]: https://www.instagram.com/andrey_fedyukin/
