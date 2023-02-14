@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Andrey
 
-<br />
-
-## I'm a Frontend Web Developer, and Designer
+### I'm a Frontend Web Developer, and Designer
 
 - 💪 _I like to write code_
 - 🥅 _I am constantly learning new things_
