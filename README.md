@@ -35,10 +35,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AndreyFedyukin | E-mail" width="30px" style="margin-right:10px; background-color: #ffffff;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][e-mail]
-[<img align="left" alt="AndreyFedyukin | Telegram" width="30px" style="margin-right:10px; background-color: #ffffff;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="AndreyFedyukin | LinkedIn" width="30px" style="margin-right:10px; background-color: #ffffff;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AndreyFedyukin | Instagram" width="30px" style="margin-right:10px; background-color: #ffffff;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AndreyFedyukin | E-mail" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][e-mail]
+[<img align="left" alt="AndreyFedyukin | Telegram" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="AndreyFedyukin | LinkedIn" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AndreyFedyukin | Instagram" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
 
