@@ -19,6 +19,7 @@
 ![BEM](https://img.shields.io/badge/-bem-333?style=for-the-badge&logo=bem)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
+![Markdown](https://img.shields.io/badge/-markdown-333?style=for-the-badge&logo=markdown)
 
 #### В процессе изучения
 
