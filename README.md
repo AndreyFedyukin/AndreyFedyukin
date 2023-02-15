@@ -4,12 +4,6 @@
 
 ---
 
-#### Статистика на GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyFedyukin&show_icons=true&hide=prs,issues,contribs&theme=dark)
-
----
-
 #### Мой стек технологий
 
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
@@ -36,6 +30,12 @@
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyFedyukin&layout=compact&theme=dark)
+
+---
+
+#### Статистика на GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyFedyukin&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
 ---
 
