@@ -1,54 +1,57 @@
-### Hi there 👋, I'm Andrey
+## Привет 👋,
 
-### I'm a Frontend Web Developer, and Designer
+## меня зовут Андрей.
 
-- 💪 _I like to write code_
-- 🥅 _I am constantly learning new things_
-- 🎉 _I love photography_
-- ⚡ _I love chess_
-- 🤹🏽 _I like sea fishing_
-  <br />
-  <br />
-
-### Languages and Tools:
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="SASS" width="30px"  style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
 <br />
 
-### In the process of studying
+### Я Frontend разработчик, создаю интересные и доступные веб-сайты для людей. Стараюсь писать код понятным и читабельным для своих коллег. В работе с кодом использую методологию БЭМ. Владею основными навыками, необходимыми для вёрстки сайтов. Постоянно нахожусь в процессе самообучения.
 
-<img align="left" alt="NodeJS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
 <br />
 
-### Connect with me:
+---
 
-[<img align="left" alt="AndreyFedyukin | E-mail" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][e-mail]
-[<img align="left" alt="AndreyFedyukin | Telegram" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="AndreyFedyukin | LinkedIn" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AndreyFedyukin | Instagram" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Статистика на GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyFedyukin&show_icons=true&hide=prs,issues,contribs&theme=dark)
+
 <br />
+
+---
+
+### Мой стек технологий
+
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
+![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
+![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
+![BEM](https://img.shields.io/badge/-bem-333?style=for-the-badge&logo=bem)
+![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
+
+### В процессе изучения
+
+![react](https://img.shields.io/badge/-react-333?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/-nodejs-333?style=for-the-badge&logo=nodejs)
+![Typescript](https://img.shields.io/badge/-typescript-333?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/-angular-333?style=for-the-badge&logo=angularjs)
+![Linux](https://img.shields.io/badge/-linux-333?style=for-the-badge&logo=linux)
 <br />
 
-[e-mail]: mailto:andrey@fedyukin.com
-[telegram]: https://t.me/andrey_fedyukin/
-[linkedin]: http://linkedin.com/in/andrey-fedyukin-948040234/
-[instagram]: https://www.instagram.com/andrey_fedyukin/
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyFedyukin&layout=compact&theme=dark)
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyFedyukin&langs_count=8&layout=compact" />
-	 <br />
-	 <br />
-	 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndreyFedyukin&show_icons=true" />
-</details>
+<br />
+
+---
+
+### Контакты
+
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/AndreyFedyukin)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/andrey_fedyukin)
+[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/andrey_fedyukin)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-333?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](http://linkedin.com/in/andrey-fedyukin-948040234)
