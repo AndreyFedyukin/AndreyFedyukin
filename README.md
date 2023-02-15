@@ -2,15 +2,11 @@
 
 Я Frontend разработчик, создаю интересные и доступные веб-сайты для людей. Стараюсь писать код понятным и читабельным для своих коллег. В работе с кодом использую методологию БЭМ. Владею основными навыками, необходимыми для вёрстки сайтов. Постоянно нахожусь в процессе самообучения.
 
-<br />
-
 ---
 
 #### Статистика на GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyFedyukin&show_icons=true&hide=prs,issues,contribs&theme=dark)
-
-<br />
 
 ---
 
@@ -40,8 +36,6 @@
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyFedyukin&layout=compact&theme=dark)
-
-<br />
 
 ---
 
