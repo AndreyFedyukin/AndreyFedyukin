@@ -52,3 +52,6 @@
 	 <br />
 	 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndreyFedyukin&show_icons=true" />
 </details>
+
+
+https://t.me/AlexMorozovDev
