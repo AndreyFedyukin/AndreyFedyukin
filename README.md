@@ -26,6 +26,7 @@
 ![NodeJS](https://img.shields.io/badge/-nodejs-333?style=for-the-badge&logo=nodejs)
 ![Typescript](https://img.shields.io/badge/-typescript-333?style=for-the-badge&logo=typescript)
 ![Angular](https://img.shields.io/badge/-angular-333?style=for-the-badge&logo=angularjs)
+![PHP](https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php)
 ![Linux](https://img.shields.io/badge/-linux-333?style=for-the-badge&logo=linux)
 <br />
 
