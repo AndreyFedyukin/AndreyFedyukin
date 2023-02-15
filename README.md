@@ -22,10 +22,10 @@
 
 #### В процессе изучения
 
-![react](https://img.shields.io/badge/-react-333?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/-nodejs-333?style=for-the-badge&logo=nodejs)
-![Typescript](https://img.shields.io/badge/-typescript-333?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-react-333?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/-angular-333?style=for-the-badge&logo=angularjs)
+![Typescript](https://img.shields.io/badge/-typescript-333?style=for-the-badge&logo=typescript)
+![NodeJS](https://img.shields.io/badge/-nodejs-333?style=for-the-badge&logo=nodejs)
 ![PHP](https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php)
 ![Linux](https://img.shields.io/badge/-linux-333?style=for-the-badge&logo=linux)
 <br />
