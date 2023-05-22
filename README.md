@@ -45,9 +45,9 @@
 
 ### Контакты
 
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/AndreyFedyukin)
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/andrey_fedyukin)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-333?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](http://linkedin.com/in/andrey-fedyukin)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/AndreyFedyukin/)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/andrey_fedyukin/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-333?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](http://linkedin.com/in/andrey-fedyukin/)
 
 ---
 
