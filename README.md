@@ -19,15 +19,16 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
 ![BEM](https://img.shields.io/badge/-bem-333?style=for-the-badge&logo=bem)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
+![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-333?style=for-the-badge&logo=AdobePhotoshop)
 ![Markdown](https://img.shields.io/badge/-markdown-333?style=for-the-badge&logo=markdown)
 
 ### В процессе изучения
 
-![React](https://img.shields.io/badge/-react-333?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/-angular-333?style=for-the-badge&logo=angularjs)
+![React](https://img.shields.io/badge/-react-333?style=for-the-badge&logo=react)
+![VueJS](https://img.shields.io/badge/-vue.js-333?style=for-the-badge&logo=vue.js)
 ![Typescript](https://img.shields.io/badge/-typescript-333?style=for-the-badge&logo=typescript)
-![NodeJS](https://img.shields.io/badge/-nodejs-333?style=for-the-badge&logo=nodejs)
+![NodeJS](https://img.shields.io/badge/-node.js-333?style=for-the-badge&logo=node.js)
 ![PHP](https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php)
 ![Linux](https://img.shields.io/badge/-linux-333?style=for-the-badge&logo=linux)
 <br />
