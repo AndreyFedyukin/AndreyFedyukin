@@ -1,5 +1,4 @@
-
-<h1 align="center">Привет! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="36px" alt="👋"></h1>
+<h1 align="center">Привет! 👋</h1>
 
 <h3 align="center">Меня зовут Андрей.</h3>
 
