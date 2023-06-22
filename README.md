@@ -1,6 +1,6 @@
 # Привет! 👋
 
-### Меня зовут Андрей.
+## Меня зовут Андрей
 
 #### Я Frontend разработчик и это тот случай, когда хобби превратилось в профессию. Создаю интересные и доступные веб-сайты для людей. Стараюсь писать код понятным и читабельным для своих коллег. В работе с кодом использую методологию БЭМ. Владею всеми основными навыками, необходимыми для вёрстки сайтов. Постоянно нахожусь в процессе самообучения.
 
@@ -23,6 +23,8 @@
 ![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-333?style=for-the-badge&logo=AdobePhotoshop)
 ![Markdown](https://img.shields.io/badge/-markdown-333?style=for-the-badge&logo=markdown)
 
+---
+
 ### В процессе изучения
 
 ![Angular](https://img.shields.io/badge/-angular-333?style=for-the-badge&logo=angularjs)
@@ -32,8 +34,10 @@
 ![NodeJS](https://img.shields.io/badge/-node.js-333?style=for-the-badge&logo=node.js)
 ![PHP](https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php)
 ![Linux](https://img.shields.io/badge/-linux-333?style=for-the-badge&logo=linux)
-<br />
 
+---
+
+### Статистика используемых языков
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyFedyukin&layout=compact&theme=dark)
 
 ---
