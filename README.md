@@ -11,6 +11,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![VueJS](https://img.shields.io/badge/-vue.js-333?style=for-the-badge&logo=vue.js)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
@@ -20,19 +21,19 @@
 ![BEM](https://img.shields.io/badge/-bem-333?style=for-the-badge&logo=bem)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
 ![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-333?style=for-the-badge&logo=AdobePhotoshop)
+![Linux](https://img.shields.io/badge/-linux-333?style=for-the-badge&logo=linux)
 ![Markdown](https://img.shields.io/badge/-markdown-333?style=for-the-badge&logo=markdown)
 
 ---
 
 ### В процессе изучения
 
-![Angular](https://img.shields.io/badge/-angular-333?style=for-the-badge&logo=angularjs)
-![React](https://img.shields.io/badge/-react-333?style=for-the-badge&logo=react)
-![VueJS](https://img.shields.io/badge/-vue.js-333?style=for-the-badge&logo=vue.js)
 ![Typescript](https://img.shields.io/badge/-typescript-333?style=for-the-badge&logo=typescript)
 ![NodeJS](https://img.shields.io/badge/-node.js-333?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-react-333?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/-angular-333?style=for-the-badge&logo=angularjs)
 ![PHP](https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php)
-![Linux](https://img.shields.io/badge/-linux-333?style=for-the-badge&logo=linux)
+
 
 ---
 
