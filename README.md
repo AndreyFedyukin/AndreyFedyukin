@@ -30,9 +30,9 @@
 
 ![Typescript](https://img.shields.io/badge/-typescript-333?style=for-the-badge&logo=typescript)
 ![NodeJS](https://img.shields.io/badge/-node.js-333?style=for-the-badge&logo=node.js)
+![PHP](https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php)
 <!-- ![React](https://img.shields.io/badge/-react-333?style=for-the-badge&logo=react) -->
 <!-- ![Angular](https://img.shields.io/badge/-angular-333?style=for-the-badge&logo=angularjs) -->
-<!-- ![PHP](https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php) -->
 
 ---
 
